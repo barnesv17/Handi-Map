@@ -7,16 +7,22 @@
 
 ## Table of Contents
   1. [Members](#mem)
+  3. [Communication](#com)
   2. [Code of Conduct](#cod)
 
 <a name="mem"/>
 
 ## Members
-  * Virginia Barnes
-  * Darrian Gardea
-  * Yuyang Mao
-  * Sully Gordon
-  * Emily Troll
+  * Virginia Barnes - barnev@rpi.edu
+  * Darrian Gardea - garded4@rpi.edu
+  * Yuyang Mao - maoy3@rpi.edu
+  * Sully Gordon - gordos5@rpi.edu
+  * Emily Troll - trolle@rpi.edu
+  
+<a name="com"/>
+
+## Communication
+Please contact any group members to be added to the project's GroupMe.
 
 <a name="cod"/>
 
