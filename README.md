@@ -5,7 +5,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/samspre/Doggone-It.svg)](https://github.com/samspre/Doggone-It/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/samspre/Doggone-It.svg)](https://github.com/volkb/Web-Systems-Development-Group-6/commits/master)
 
-### Table of Contents
+## Table of Contents
   1. [Members](#mem)
   2. [Code of Conduct](#cod)
 
