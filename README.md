@@ -13,12 +13,15 @@
 <a name="mem"/>
 
 ## Members
-  * Virginia Barnes - barnev@rpi.edu
-  * Darrian Gardea - garded4@rpi.edu
-  * Yuyang Mao - maoy3@rpi.edu
-  * Sully Gordon - gordos5@rpi.edu
-  * Emily Troll - trolle@rpi.edu
-  
+
+| Name            | Email           |
+| --------------- |:---------------:|
+| Virginia Barnes | barnev@rpi.edu  |
+| Darrian Gardea  | garded4@rpi.edu |
+| Yuyang Mao      | maoy3@rpi.edu   |
+| Sully Gordon    | gordos5@rpi.edu |
+| Emily Troll     | trolle@rpi.edu  |
+
 <a name="com"/>
 
 ## Communication
