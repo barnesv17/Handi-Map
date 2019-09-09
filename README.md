@@ -10,6 +10,7 @@
   2. [Code of Conduct](#cod)
 
 <a name="mem"/>
+
 ### Members
   * Virginia Barnes
   * Darrian Gardea
@@ -18,6 +19,7 @@
   * Emily Troll
 
 <a name="cod"/>
+
 ## Code of Conduct
 - 25% Submit materials to the team by the deadlines agreed upon within the team
 - 25% Produce good quality output which you are proud to be associated with
