@@ -2,8 +2,8 @@
 ###### Making campus accessible
 <!-- [![GitHub license](https://img.shields.io/github/license/volkb/Web-Systems-Development-Group-6.svg)](https://github.com/volkb/Web-Systems-Development-Group-6/blob/master/LICENSE.txt) -->
 
-[![GitHub contributors](https://img.shields.io/github/contributors/samspre/Doggone-It.svg)](https://github.com/samspre/Doggone-It/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/samspre/Doggone-It.svg)](https://github.com/volkb/Web-Systems-Development-Group-6/commits/master)
+[![GitHub contributors](https://img.shields.io/github/contributors/barnesv17/Handi-Map.svg)](https://github.com/samspre/Doggone-It/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/barnesv17/Handi-Map.svg)](https://github.com/volkb/Web-Systems-Development-Group-6/commits/master)
 
 ## Table of Contents
   1. [Members](#mem)
