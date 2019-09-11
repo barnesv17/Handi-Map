@@ -29,7 +29,7 @@ Please contact any group members to be added to the project's GroupMe.
 
 <a name="cod"/>
 
-## Code of Conduct
+## Peer Review Grading Criteria
 
 | %    | Description                                                               |
 | ---- |:-------------------------------------------------------------------------:|
