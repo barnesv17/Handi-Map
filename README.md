@@ -25,7 +25,7 @@
 <a name="com"/>
 
 ## Communication
-Please contact any group members to be added to the project's GroupMe.
+Please contact any group member to be added to the project's GroupMe.
 
 <a name="cod"/>
 
